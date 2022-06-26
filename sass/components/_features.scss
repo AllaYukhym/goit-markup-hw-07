@@ -18,8 +18,8 @@
   justify-content: center;
   align-items: center;
 
-  background-color: var(--btn-color);
-  color: var(--secondary-text-color);
+  background-color: $btn-color;
+  color: $secondary-text-color;
 }
 
 .list-icon__icon {
@@ -41,5 +41,5 @@
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--secondary-text-color);
+  color: $secondary-text-color;
 }
